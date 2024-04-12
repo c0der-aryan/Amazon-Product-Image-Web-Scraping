@@ -1,4 +1,4 @@
-<h1> 🌐  Project Description: Automating Web Scraping of Amazon Product Images 🌐 </h1>
+<h1> 🌐 Automating Web Scraping of Amazon Product Images 🌐 </h1>
 <h2>Objective:</h2>
 <p>To develop a solution for extracting and downloading product images from Amazon efficiently.</p>
 <h2>Overview:</h2>
