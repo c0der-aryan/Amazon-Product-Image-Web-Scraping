@@ -1,7 +1,14 @@
-<h2>In this project, I was tasked with automating the web scraping of product images from Amazon. I was provided with a dataset containing Amazon product links, and my goal was to develop a solution to extract and download the corresponding product images efficiently.
-
-To achieve this, I implemented a web scraping script using Python and the Selenium library. The script iterated through the provided dataset, visited each Amazon product page, and extracted the URLs of the product images. It then downloaded the images to a local directory for further processing.
-
-I utilized Selenium's web driver capabilities to navigate the Amazon website, simulate user actions such as clicking on elements, and extract the necessary information. Additionally, I implemented error handling and logging mechanisms to ensure the robustness and reliability of the scraping process.
-
-Overall, this project involved the automation of web scraping tasks to collect product images from Amazon, demonstrating proficiency in web scraping techniques and automation.</h2>
+<h1>🌐 Project Description: Automating Web Scraping of Amazon Product Images</h1>
+<h2>Objective:</h2>
+<p>To develop a solution for extracting and downloading product images from Amazon efficiently.</p>
+<h2>Overview:</h2>
+<ul>
+  <li><strong>Task:</strong> Automate web scraping of Amazon product images from a dataset of product links.</li>
+  <li><strong>Approach:</strong> Implemented a web scraping script using Python and Selenium.</li>
+  <li><strong>Functionality:</strong> The script iterated through the dataset, visited each product page, extracted image URLs, and downloaded images to a local directory.</li>
+  <li><strong>Techniques:</strong> Utilized Selenium's web driver capabilities for navigation and user action simulation.</li>
+  <li><strong>Reliability:</strong> Implemented error handling and logging mechanisms for robustness.</li>
+  <li><strong>Outcome:</strong> Successfully automated web scraping tasks for collecting product images from Amazon.</li>
+</ul>
+<h2>Key Skills Demonstrated:</h2>
+<p>Proficiency in web scraping techniques, automation, Python programming, and Selenium library usage.</p>
